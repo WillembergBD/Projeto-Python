@@ -1,0 +1,10 @@
+Dados de entrega:
+Nome:Bruno
+Endereço:Avenida
+Dados do pedido:
+Produto                                         Quantidade                   Preço
+Cebola                                                  2                    6.0 R$
+Laranja mimo (4 Unidades)                               2                    4.0 R$
+Mel no favo (450 g)                                     1                    25.0 R$
+                                                Total a Pagar:                35.0
+Forma de pagamento:['Dinheito']
